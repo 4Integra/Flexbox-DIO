@@ -1,0 +1,3 @@
+# project flexbox DIO
+
+Project made  for **Santander Bootcamp Fullstack Developer** on **Digital Innovation One**, applying learned concepts of flexbox (CSS).
